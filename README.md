@@ -5,8 +5,6 @@
 
 ### Estudante de Engenharia de Software | Desenvolvedor em formação | Empreendedor
 
-![Status](https://img.shields.io/badge/status-aprendendo%20e%20construindo-brightgreen?style=for-the-badge)
-![Local](https://img.shields.io/badge/Brasil-Grande%20S%C3%A3o%20Paulo-009c3b?style=for-the-badge)
 
 </div>
 
