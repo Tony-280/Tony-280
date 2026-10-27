@@ -14,10 +14,9 @@
 
 - 🎓 Cursando **Engenharia de Software** na UNICID
 - 💻 Estudando **HTML, CSS e JavaScript** e dando os primeiros passos em outras linguagens
-- 🛍️ Empreendedor: tenho uma loja de moda feminina online
 - 🎨 Experiência com design gráfico
-- 🌎 Falo português e espanhol, e estou aprendendo inglês
-- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) | [GitHub](https://github.com/SEU-USUARIO)
+- 🌎 Falo português e espanhol, inglês intermediário 
+- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/john-rodrigo-7ab158322?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [GitHub](https://github.com/SEU-USUARIO)
 
 ---
 
