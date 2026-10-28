@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 # 👋 Olá, eu sou o Rodrigo
