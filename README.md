@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Rodrigo
 
-### Estudante de Engenharia de Software | Desenvolvedor em formação | Empreendedor
+### Estudante de Engenharia de Software | Desenvolvedor em formação | Empreendedor.
 
 
 </div>
